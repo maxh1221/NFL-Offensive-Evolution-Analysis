@@ -51,7 +51,7 @@ Popular among NFL fans is the belief that the NFL has entered a 'golden age' of 
 - **Scoring has steadily increased** across all 21 seasons, supporting the premise that modern NFL offenses are more prolific.
 - **Passing yards carry a marginally greater impact on scoring** than rushing yards (OLS coefficients: 0.0777 vs. 0.0700 points per yard), which aligns with the league-wide shift toward pass-heavy schemes.
 - **Teams are passing significantly more in 2023 than in 2003**, with rushing attempts trending downward, suggesting a structural shift in offensive philosophy across the board.
-- **Penalties have a near-zero correlation with year** (r ≈ −0.03), challenging a somewhat popular narrative that increased penalty calls are a primary driver of higher scoring.
+- **Penalties have a near-zero correlation with year** (r ≈ −0.05), challenging a somewhat popular narrative that increased penalty calls are a primary driver of higher scoring.
 - **Penalties also show no meaningful correlation with wins**, suggesting referee influence on outcomes is minimal in aggregate.
 - **The model achieved consistent RMSE (~39 points) across train, validation, and holdout sets**, indicating no overfitting, although the model does not account for potential factors such as turnovers or possible home-field advantage.
 
